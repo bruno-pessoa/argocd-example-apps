@@ -1,6 +1,0 @@
-apiVersion: v1
-data:
-  hue: siempre
-kind: ConfigMap
-metadata:
-  name: test-config-map
